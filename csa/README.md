@@ -483,6 +483,10 @@ double factorial(double num);
 
 ---
 
+- Итоговые файлы на ассемблере:
+    - [main-final.s](./bridge/main-final.s) 
+    - [funcs-final.s](./bridge/funcs-final.s)
+- Исполняемый файл: [final.out](./bridge/final.out)
 - Исходный код на ассемблере был отредактирован и прокомментирован.
 - Проведены тесты - результаты совпадают с предыдущими: [tests-8](./bridge/tests/tests-8)
 - ссылка на табличку сравнения времени работы программ: [time table](https://docs.google.com/spreadsheets/d/1wj04HGbjFx8joRhVZ5GJOt0rNfO8w_DWYdHq0AgctR0/edit?usp=sharing)
